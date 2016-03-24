@@ -1,6 +1,4 @@
-@viewport {
-  width: device-width; scale: 1;
-}
+@viewport { width: device-width; scale: 1; }
 
 html {
   box-sizing: border-box;
